@@ -1,7 +1,8 @@
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328                                 09/01/16  09:39:38
-MS-DOS LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328,  INVOKED BY:
-C:\Raisonance\Ride\bin\lx51.exe Output\HTIRC_HUMMINGBIRD_12A_REV14_75.OBJ TO(Output\HTIRC_HUMMING&
-BIRD_12A_REV14_75.OMF) RS(256) PL(68) PW(78) OUTPUTSUMMARY LIBPATH(C:\Raisonance\Ride\lib\51) 
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326                                 09/04/16  02:31:23
+MS-DOS LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326,  INVOKED BY:
+C:\Dev\Raisonance\Ride\bin\lx51.exe Output\HTIRC_HUMMINGBIRD_12A_REV14_75.OBJ TO(Output\HTIRC_HUM&
+MINGBIRD_12A_REV14_75.OMF) RS(256) PL(68) PW(78) OUTPUTSUMMARY LIBPATH(C:\Dev\Raisonance\Ride\lib&
+\51) 
 
 
 INPUT MODULES INCLUDED
@@ -67,8 +68,8 @@ SEGMENT                           BI_GROUP            DT_GROUP             ID_GR
 
 SYMBOL TABLE FOR OUTPUT\HTIRC_HUMMINGBIRD_12A_REV14_75.OMF(BLHELI)
 -------------------------------------------------------------------
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 
     VALUE              TYPE               NAME
     -----              ----               ----
@@ -137,9 +138,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:0136H            SYMBOL             PWM_AFET_DAMPED_DONE
 	C:1A27H            SYMBOL             EEP_PGM_BRAKE_ON_STOP
 	C:1A0FH            SYMBOL             EEP_ENABLE_TX_PROGRAM
-	D:0037H            SYMBOL             DEMAG_DETECTED_METRIC
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	D:0037H            SYMBOL             DEMAG_DETECTED_METRIC
 	B:00CCH            SYMBOL             TF2CEN
 	D:00F0H            SYMBOL             B
 	D:00E3H            SYMBOL             OSCLCN
@@ -207,9 +208,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:1D16H            SYMBOL             PRO4
 	C:1C7FH            SYMBOL             MAIN
 	C:184FH            SYMBOL             PARAVAL_NEXT
-	C:16DAH            SYMBOL             WRITE_EEPROM_BYTE
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:16DAH            SYMBOL             WRITE_EEPROM_BYTE
 	C:1266H            SYMBOL             TEST_FOR_ONESHOT
 	C:1213H            SYMBOL             MEASURE_PWM_FREQ_INIT
 	C:0ED1H            SYMBOL             COMM61_NFET_OFF_REV
@@ -277,9 +278,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:0C5DH            SYMBOL             COMP_READ_WRONG_TIMEOUT_SET
 	C:0B45H            SYMBOL             STORE_TIMES_EXIT
 	C:0B7BH            SYMBOL             WAIT_BEFORE_ZC_SCAN
-	C:0930H            SYMBOL             CHECK_VOLTAGE_PWM_DONE
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0930H            SYMBOL             CHECK_VOLTAGE_PWM_DONE
 	C:083FH            SYMBOL             GOVERNOR_CORR_INT_MIN_PWM
 	C:0739H            SYMBOL             GOVERNOR_STORE_PROP_ERROR
 	C:0630H            SYMBOL             DIV_U16_BY_U16_DIV2
@@ -347,9 +348,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	D:0067H            SYMBOL             PWM_DITHER_EXCESS_POWER
 	D:0030H            SYMBOL             INITIAL_ARM
 	B:00DFH            SYMBOL             CF
-	B:00A9H            SYMBOL             ET0
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	B:00A9H            SYMBOL             ET0
 	D:00F2H            SYMBOL             P1MDIN
 	D:00E8H            SYMBOL             ADC0CN
 	D:00A4H            SYMBOL             P0MDOUT
@@ -417,9 +418,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	I:008AH            SYMBOL             INITIALIZED_L_DUMMY
 	D:0046H            SYMBOL             GOV_INTEGRAL_L
 	D:0031H            SYMBOL             POWER_ON_WAIT_CNT_L
-	D:0023H            SYMBOL             GOVERNOR_REQ_PWM
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	D:0023H            SYMBOL             GOVERNOR_REQ_PWM
 	B:00C7H            SYMBOL             MASTER
 	B:00BEH            SYMBOL             PSPI0
 	D:00FAH            SYMBOL             PCA0H
@@ -487,9 +488,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	I:009CH            SYMBOL             PGM_DEMAG_COMP
 	D:003EH            SYMBOL             PREV_PREV_COMM_L
 	D:003CH            SYMBOL             PREV_COMM_H
-	B:00F9H            SYMBOL             TXBMT
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	B:00F9H            SYMBOL             TXBMT
 	B:00FCH            SYMBOL             RXOVRN
 	B:00C1H            SYMBOL             ACK
 	D:00FCH            SYMBOL             PCA0CPH0
@@ -557,9 +558,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:1A1DH            SYMBOL             EEP_PGM_BEACON_DELAY
 	C:1A1CH            SYMBOL             EEP_PGM_BEACON_STRENGTH
 	I:00D0H            SYMBOL             TAG_TEMPORARY_STORAGE
-	I:0084H            SYMBOL             PGM_MOTOR_GAIN
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	I:0084H            SYMBOL             PGM_MOTOR_GAIN
 	D:0071H            SYMBOL             CURRENT_AVERAGE_TEMP
 	D:0064H            SYMBOL             PWM_SPOOLUP_BEG
 	D:0061H            SYMBOL             PWM_LIMIT
@@ -627,9 +628,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:0FC0H            SYMBOL             DECODE_PWM_FREQ_LOW
 	C:0ED3H            SYMBOL             COMM61_FETS_DONE_REV
 	C:0C69H            SYMBOL             COMP_READ_WRONG_LOW_RPM
-	C:0882H            SYMBOL             SET_PWM_LIMIT_LOW_RPM_EXIT
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0882H            SYMBOL             SET_PWM_LIMIT_LOW_RPM_EXIT
 	C:05CCH            SYMBOL             BEEP_F4
 	C:0514H            SYMBOL             PCA_INT_PPM_MAX_CHECKED
 	C:03FFH            SYMBOL             PCA_INT_RESTORE_EDGE
@@ -697,9 +698,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:0B16H            SYMBOL             STORE_TIMES_INCREASE
 	C:089BH            SYMBOL             MEASURE_LIPO_CELLS
 	C:073EH            SYMBOL             CALC_GOVERNOR_INT_ERROR
-	C:04B0H            SYMBOL             PCA_INT_PPM_CALCULATE
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:04B0H            SYMBOL             PCA_INT_PPM_CALCULATE
 	C:057CH            SYMBOL             PCA_INT_EXIT
 	C:01EAH            SYMBOL             T2_INT_RCP_UPDATE_MULT
 	C:0149H            SYMBOL             PWM_BFET_DAMPED_EXIT
@@ -767,9 +768,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:06A4H            SYMBOL             MULT_S16_BY_U8_EXIT
 	C:0526H            SYMBOL             PCA_INT_PPM_LIMIT_AFTER_MULT
 	C:02D3H            SYMBOL             T2H_INT_RCP_GOV_PWM
-	C:0212H            SYMBOL             T2_INT_PWM_MIN_RUN
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0212H            SYMBOL             T2_INT_PWM_MIN_RUN
 	C:009AH            SYMBOL             PWM_DITHER_TABLE
 	C:1A60H            SYMBOL             EEP_NAME
 	C:1A0DH            SYMBOL             EEP_INITIALIZED_L
@@ -837,9 +838,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:16F6H            SYMBOL             ERASE_FLASH
 	C:160CH            SYMBOL             RUN_TO_WAIT_FOR_POWER_ON_STALL_DONE
 	C:17FEH            SYMBOL             PROGRAM_BY_TX
-	C:11A7H            SYMBOL             INPUT_HIGH_CHECK_2
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:11A7H            SYMBOL             INPUT_HIGH_CHECK_2
 	C:0D8FH            SYMBOL             COMM23_NONDAMP
 	C:0D49H            SYMBOL             COMM2COMM3
 	C:09E8H            SYMBOL             CALC_NEXT_COMM_AVG_PERIOD_DIV
@@ -907,9 +908,9 @@ OWER
 	D:0049H            SYMBOL             GOV_PROPORTIONAL_L
 	D:003DH            SYMBOL             PREV_COMM_X
 	D:002EH            SYMBOL             FLAGS2
-	D:0026H            SYMBOL             CURRENT_PWM_LIM_DITH
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	D:0026H            SYMBOL             CURRENT_PWM_LIM_DITH
 	B:00F8H            SYMBOL             SPIEN
 	B:008BH            SYMBOL             IE1
 	D:00C3H            SYMBOL             ADC0GTL
@@ -977,9 +978,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:0133H            LINE#              3014
 	C:0136H            LINE#              3017
 	C:0138H            LINE#              3019
-	C:013AH            LINE#              3023
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:013AH            LINE#              3023
 	C:013CH            LINE#              3025
 	C:013FH            LINE#              3026
 	C:0142H            LINE#              3028
@@ -1047,9 +1048,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:01E2H            LINE#              3166
 	C:01E3H            LINE#              3167
 	C:01E5H            LINE#              3168
-	C:01E7H            LINE#              3170
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:01E7H            LINE#              3170
 	C:01E9H            LINE#              3171
 	C:01EAH            LINE#              3175
 	C:01EBH            LINE#              3176
@@ -1117,9 +1118,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:0250H            LINE#              3282
 	C:0251H            LINE#              3283
 	C:0253H            LINE#              3284
-	C:0255H            LINE#              3286
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0255H            LINE#              3286
 	C:0257H            LINE#              3289
 	C:0259H            LINE#              3291
 	C:025BH            LINE#              3292
@@ -1187,9 +1188,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:02C8H            LINE#              3401
 	C:02CAH            LINE#              3402
 	C:02CCH            LINE#              3403
-	C:02CEH            LINE#              3404
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:02CEH            LINE#              3404
 	C:02D0H            LINE#              3406
 	C:02D3H            LINE#              3540
 	C:02D5H            LINE#              3541
@@ -1257,9 +1258,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:0393H            LINE#              3647
 	C:0394H            LINE#              3648
 	C:0395H            LINE#              3649
-	C:0397H            LINE#              3650
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0397H            LINE#              3650
 	C:0398H            LINE#              3651
 	C:039AH            LINE#              3652
 	C:039CH            LINE#              3654
@@ -1327,9 +1328,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:03FFH            LINE#              3741
 	C:0400H            LINE#              3742
 	C:0401H            LINE#              3743
-	C:0403H            LINE#              3744
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0403H            LINE#              3744
 	C:0404H            LINE#              3745
 	C:0405H            LINE#              3746
 	C:0407H            LINE#              3747
@@ -1397,9 +1398,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:045EH            LINE#              3833
 	C:0461H            LINE#              3834
 	C:0463H            LINE#              3836
-	C:0464H            LINE#              3837
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0464H            LINE#              3837
 	C:0465H            LINE#              3838
 	C:0466H            LINE#              3839
 	C:0467H            LINE#              3840
@@ -1467,9 +1468,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:04D3H            LINE#              3941
 	C:04D5H            LINE#              3943
 	C:04D7H            LINE#              3946
-	C:04DAH            LINE#              3948
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:04DAH            LINE#              3948
 	C:04DBH            LINE#              3949
 	C:04DCH            LINE#              3950
 	C:04DEH            LINE#              3951
@@ -1537,9 +1538,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:053FH            LINE#              4036
 	C:0540H            LINE#              4037
 	C:0541H            LINE#              4038
-	C:0542H            LINE#              4039
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0542H            LINE#              4039
 	C:0544H            LINE#              4040
 	C:0545H            LINE#              4044
 	C:0546H            LINE#              4045
@@ -1607,9 +1608,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:05CEH            LINE#              4167
 	C:05D0H            LINE#              4168
 	C:05D3H            LINE#              4171
-	C:05D5H            LINE#              4172
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:05D5H            LINE#              4172
 	C:05D8H            LINE#              4173
 	C:05D9H            LINE#              4176
 	C:05DBH            LINE#              4178
@@ -1677,9 +1678,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:0644H            LINE#              4261
 	C:0645H            LINE#              4262
 	C:0646H            LINE#              4263
-	C:0647H            LINE#              4265
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0647H            LINE#              4265
 	C:0648H            LINE#              4266
 	C:0649H            LINE#              4267
 	C:064AH            LINE#              4268
@@ -1747,9 +1748,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:06A1H            LINE#              4346
 	C:06A3H            LINE#              4347
 	C:06A4H            LINE#              4350
-	C:06A5H            LINE#              4351
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:06A5H            LINE#              4351
 	C:06A7H            LINE#              4352
 	C:06A9H            LINE#              4353
 	C:06AAH            LINE#              4354
@@ -1817,9 +1818,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:070AH            LINE#              4614
 	C:070CH            LINE#              4615
 	C:070EH            LINE#              4616
-	C:070FH            LINE#              4617
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:070FH            LINE#              4617
 	C:0711H            LINE#              4618
 	C:0713H            LINE#              4619
 	C:0714H            LINE#              4622
@@ -1887,9 +1888,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:0788H            LINE#              4715
 	C:078AH            LINE#              4716
 	C:078DH            LINE#              4718
-	C:0790H            LINE#              4721
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0790H            LINE#              4721
 	C:0792H            LINE#              4722
 	C:0795H            LINE#              4726
 	C:0797H            LINE#              4727
@@ -1957,9 +1958,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:07FDH            LINE#              4829
 	C:07FFH            LINE#              4830
 	C:0801H            LINE#              4832
-	C:0804H            LINE#              4834
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0804H            LINE#              4834
 	C:0805H            LINE#              4835
 	C:0808H            LINE#              4837
 	C:0809H            LINE#              4838
@@ -2027,9 +2028,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:087CH            LINE#              4942
 	C:087EH            LINE#              4943
 	C:0880H            LINE#              4945
-	C:0882H            LINE#              4948
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0882H            LINE#              4948
 	C:0884H            LINE#              4949
 	C:0885H            LINE#              4969
 	C:0886H            LINE#              4970
@@ -2097,9 +2098,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:08FAH            LINE#              5230
 	C:08FDH            LINE#              5232
 	C:08FEH            LINE#              5233
-	C:0900H            LINE#              5234
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0900H            LINE#              5234
 	C:0902H            LINE#              5236
 	C:0905H            LINE#              5239
 	C:0908H            LINE#              5240
@@ -2167,9 +2168,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:097DH            LINE#              5457
 	C:097EH            LINE#              5458
 	C:097FH            LINE#              5459
-	C:0980H            LINE#              5460
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0980H            LINE#              5460
 	C:0981H            LINE#              5461
 	C:0982H            LINE#              5462
 	C:0985H            LINE#              5467
@@ -2237,9 +2238,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:09E8H            LINE#              5548
 	C:09E9H            LINE#              5549
 	C:09EAH            LINE#              5550
-	C:09EBH            LINE#              5551
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:09EBH            LINE#              5551
 	C:09ECH            LINE#              5552
 	C:09EDH            LINE#              5553
 	C:09EEH            LINE#              5554
@@ -2307,9 +2308,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:0A49H            LINE#              5639
 	C:0A4BH            LINE#              5640
 	C:0A4CH            LINE#              5641
-	C:0A4EH            LINE#              5642
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0A4EH            LINE#              5642
 	C:0A4FH            LINE#              5643
 	C:0A51H            LINE#              5644
 	C:0A52H            LINE#              5645
@@ -2377,9 +2378,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:0AA4H            LINE#              5720
 	C:0AA5H            LINE#              5721
 	C:0AA6H            LINE#              5722
-	C:0AA8H            LINE#              5723
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0AA8H            LINE#              5723
 	C:0AA9H            LINE#              5724
 	C:0AAAH            LINE#              5725
 	C:0AABH            LINE#              5726
@@ -2447,9 +2448,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:0B03H            LINE#              5834
 	C:0B04H            LINE#              5835
 	C:0B05H            LINE#              5836
-	C:0B07H            LINE#              5837
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0B07H            LINE#              5837
 	C:0B08H            LINE#              5838
 	C:0B09H            LINE#              5839
 	C:0B0BH            LINE#              5840
@@ -2517,9 +2518,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:0B79H            LINE#              5924
 	C:0B7BH            LINE#              5939
 	C:0B7DH            LINE#              5940
-	C:0B7EH            LINE#              5941
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0B7EH            LINE#              5941
 	C:0B7FH            LINE#              5942
 	C:0B81H            LINE#              5944
 	C:0B83H            LINE#              5947
@@ -2587,9 +2588,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:0BFBH            LINE#              6042
 	C:0BFDH            LINE#              6043
 	C:0BFFH            LINE#              6044
-	C:0C00H            LINE#              6045
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0C00H            LINE#              6045
 	C:0C01H            LINE#              6046
 	C:0C03H            LINE#              6047
 	C:0C04H            LINE#              6048
@@ -2657,9 +2658,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:0C7CH            LINE#              6163
 	C:0C7EH            LINE#              6164
 	C:0C80H            LINE#              6167
-	C:0C81H            LINE#              6168
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0C81H            LINE#              6168
 	C:0C83H            LINE#              6169
 	C:0C85H            LINE#              6170
 	C:0C87H            LINE#              6171
@@ -2727,9 +2728,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:0D11H            LINE#              6294
 	C:0D14H            LINE#              6295
 	C:0D16H            LINE#              6296
-	C:0D19H            LINE#              6297
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0D19H            LINE#              6297
 	C:0D1AH            LINE#              6313
 	C:0D1DH            LINE#              6315
 	C:0D1FH            LINE#              6316
@@ -2797,9 +2798,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:0DBAH            LINE#              6412
 	C:0DBDH            LINE#              6413
 	C:0DC0H            LINE#              6419
-	C:0DC3H            LINE#              6421
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0DC3H            LINE#              6421
 	C:0DC5H            LINE#              6422
 	C:0DC8H            LINE#              6423
 	C:0DCAH            LINE#              6424
@@ -2867,9 +2868,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:0E66H            LINE#              6524
 	C:0E69H            LINE#              6526
 	C:0E6BH            LINE#              6527
-	C:0E6EH            LINE#              6528
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0E6EH            LINE#              6528
 	C:0E70H            LINE#              6529
 	C:0E72H            LINE#              6530
 	C:0E75H            LINE#              6531
@@ -2937,9 +2938,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:0F0FH            LINE#              6641
 	C:0F12H            LINE#              6642
 	C:0F18H            LINE#              6643
-	C:0F1EH            LINE#              6644
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0F1EH            LINE#              6644
 	C:0F20H            LINE#              6645
 	C:0F21H            LINE#              6805
 	C:0F23H            LINE#              6806
@@ -3007,9 +3008,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:0F81H            LINE#              6869
 	C:0F83H            LINE#              6870
 	C:0F84H            LINE#              6871
-	C:0F86H            LINE#              6872
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:0F86H            LINE#              6872
 	C:0F87H            LINE#              6873
 	C:0F89H            LINE#              6874
 	C:0F8AH            LINE#              6875
@@ -3077,9 +3078,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:0FF7H            LINE#              7011
 	C:0FFAH            LINE#              7013
 	C:0FFDH            LINE#              7015
-	C:1000H            LINE#              7018
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:1000H            LINE#              7018
 	C:1003H            LINE#              7020
 	C:1006H            LINE#              7024
 	C:1008H            LINE#              7025
@@ -3147,9 +3148,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:106FH            LINE#              7166
 	C:1070H            LINE#              7167
 	C:1071H            LINE#              7168
-	C:1072H            LINE#              7169
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:1072H            LINE#              7169
 	C:1074H            LINE#              7171
 	C:1075H            LINE#              7172
 	C:1077H            LINE#              7173
@@ -3217,9 +3218,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:10F7H            LINE#              7287
 	C:10FAH            LINE#              7289
 	C:10FDH            LINE#              7291
-	C:10FFH            LINE#              7292
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:10FFH            LINE#              7292
 	C:1102H            LINE#              7293
 	C:1104H            LINE#              7294
 	C:1105H            LINE#              7295
@@ -3287,9 +3288,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:119DH            LINE#              7438
 	C:11A0H            LINE#              7439
 	C:11A3H            LINE#              7441
-	C:11A5H            LINE#              7443
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:11A5H            LINE#              7443
 	C:11A7H            LINE#              7445
 	C:11AAH            LINE#              7446
 	C:11ACH            LINE#              7447
@@ -3357,9 +3358,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:1266H            LINE#              7556
 	C:1268H            LINE#              7557
 	C:126BH            LINE#              7558
-	C:126EH            LINE#              7559
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:126EH            LINE#              7559
 	C:1271H            LINE#              7561
 	C:1272H            LINE#              7562
 	C:1274H            LINE#              7563
@@ -3427,9 +3428,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:12FCH            LINE#              7663
 	C:12FEH            LINE#              7664
 	C:1301H            LINE#              7665
-	C:1303H            LINE#              7666
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:1303H            LINE#              7666
 	C:1305H            LINE#              7667
 	C:1307H            LINE#              7668
 	C:1309H            LINE#              7669
@@ -3497,9 +3498,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:1384H            LINE#              7748
 	C:1386H            LINE#              7749
 	C:1388H            LINE#              7750
-	C:138AH            LINE#              7752
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:138AH            LINE#              7752
 	C:138DH            LINE#              7756
 	C:1390H            LINE#              7757
 	C:1393H            LINE#              7758
@@ -3567,9 +3568,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:1410H            LINE#              7845
 	C:1412H            LINE#              7846
 	C:1414H            LINE#              7848
-	C:1417H            LINE#              7850
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:1417H            LINE#              7850
 	C:1419H            LINE#              7853
 	C:141BH            LINE#              7854
 	C:141EH            LINE#              7856
@@ -3637,9 +3638,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:14A4H            LINE#              7942
 	C:14A7H            LINE#              7943
 	C:14AAH            LINE#              7944
-	C:14ADH            LINE#              7945
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:14ADH            LINE#              7945
 	C:14B0H            LINE#              7950
 	C:14B2H            LINE#              7951
 	C:14B3H            LINE#              7952
@@ -3707,9 +3708,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:1564H            LINE#              8084
 	C:1565H            LINE#              8085
 	C:1567H            LINE#              8087
-	C:1569H            LINE#              8088
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:1569H            LINE#              8088
 	C:156BH            LINE#              8089
 	C:156DH            LINE#              8094
 	C:1570H            LINE#              8095
@@ -3777,9 +3778,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:15F7H            LINE#              8214
 	C:15F9H            LINE#              8215
 	C:15FCH            LINE#              8216
-	C:15FFH            LINE#              8217
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:15FFH            LINE#              8217
 	C:1601H            LINE#              8221
 	C:1603H            LINE#              8222
 	C:1605H            LINE#              8223
@@ -3847,9 +3848,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:168EH            LINE#              98
 	C:1690H            LINE#              100
 	C:1693H            LINE#              103
-	C:1694H            LINE#              114
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:1694H            LINE#              114
 	C:1696H            LINE#              115
 	C:1699H            LINE#              116
 	C:169CH            LINE#              118
@@ -3917,9 +3918,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:171BH            LINE#              270
 	C:171DH            LINE#              271
 	C:171FH            LINE#              272
-	C:1722H            LINE#              274
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:1722H            LINE#              274
 	C:1724H            LINE#              275
 	C:1726H            LINE#              276
 	C:1727H            LINE#              277
@@ -3987,9 +3988,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:17B2H            LINE#              498
 	C:17B5H            LINE#              499
 	C:17B8H            LINE#              500
-	C:17BBH            LINE#              501
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:17BBH            LINE#              501
 	C:17BEH            LINE#              502
 	C:17C1H            LINE#              503
 	C:17C4H            LINE#              504
@@ -4057,9 +4058,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:1856H            LINE#              623
 	C:1857H            LINE#              624
 	C:185AH            LINE#              625
-	C:185BH            LINE#              626
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:185BH            LINE#              626
 	C:185CH            LINE#              628
 	C:185DH            LINE#              629
 	C:185EH            LINE#              630
@@ -4127,9 +4128,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:1C69H            LINE#              124
 	C:1C6BH            LINE#              125
 	C:1C6DH            LINE#              128
-	C:1C6FH            LINE#              130
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:1C6FH            LINE#              130
 	C:1C71H            LINE#              131
 	C:1C73H            LINE#              132
 	C:1C75H            LINE#              135
@@ -4197,9 +4198,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:1CE5H            LINE#              218
 	C:1CE6H            LINE#              219
 	C:1CE8H            LINE#              220
-	C:1CEAH            LINE#              221
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:1CEAH            LINE#              221
 	C:1CECH            LINE#              222
 	C:1CEDH            LINE#              223
 	C:1CEFH            LINE#              224
@@ -4267,9 +4268,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:1D66H            LINE#              308
 	C:1D69H            LINE#              309
 	C:1D6CH            LINE#              311
-	C:1D6FH            LINE#              315
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	C:1D6FH            LINE#              315
 	C:1D71H            LINE#              316
 	C:1D73H            LINE#              317
 	C:1D76H            LINE#              318
@@ -4337,9 +4338,9 @@ LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
 	C:1DE6H            LINE#              397
 	C:1DE8H            LINE#              398
 	C:19FDH            LINE#              8306
-	-------            ENDMOD             BLHELI
-LX51 CODE BANKING LINKER/LOCATOR V06.18.15.328             09/01/16  09:39:38
+LX51 CODE BANKING LINKER/LOCATOR V06.16.13.326             09/04/16  02:31:23
 
+	-------            ENDMOD             BLHELI
 
 ----------------------
 SUGGESTED OPTIMIZATION

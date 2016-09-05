@@ -16,6 +16,8 @@ MKDIR Output\Hex
 SET Revision=REV14_75
 SET SilabsPath=C:\SiLabs
 SET RaisonancePath=C:\Raisonance
+rem SET SilabsPath=C:\Dev\SiLabs
+rem SET RaisonancePath=C:\Dev\Raisonance
 
 @ECHO Revision: %Revision% >> MakeHex_Result.txt
 @ECHO Path for Silabs IDE: %SilabsPath% >> MakeHex_Result.txt
@@ -219,10 +221,10 @@ goto :end
 
 :compile
 rem SET BESC="%BESCNAME%_MAIN"
-rem SET /A BESCNO+=1
+SET /A BESCNO+=1
 rem call :compile2
 rem SET BESC="%BESCNAME%_TAIL_MS"
-rem SET /A BESCNO+=1
+SET /A BESCNO+=1
 rem call:compile2
 SET BESC="%BESCNAME%_MULTISHOT"
 SET /A BESCNO+=1
